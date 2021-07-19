@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DromTZ</string>
+    <string name="action_search">Search</string>
+
+    <string name="no_internet">Нет соединения с интернетом!</string>
+    <string name="api_limitations">Сработало ограничение по числу запросов API!</string>
+    <string name="query_error">Некорректно задан запрос!</string>
+    <string name="server_error">Произошла ошибка на стороне сервера!</string>
+    <string name="no_repo_access">Репозиторий скрыт либо удалён!</string>
+
+    <string name="not_found_repo">Не найдено ни одного репозитория!</string>
+    <string name="not_found_issue">Не найдено ни одного issue!</string>
+
+    <string name="retry">Повторить</string>
+</resources>
